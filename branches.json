@@ -1,0 +1,40 @@
+{
+  "branches": [
+    {
+      "id": "1",
+      "name": "فرع سلطانه ",
+      "whatsapp": "https://api.whatsapp.com/send?phone=+966581303825",
+      "location": "https://goo.gl/maps/h4BVJJUQw9fNT4ZC7"
+    },
+    {
+      "id": "2",
+      "name": "فرع العزيزيه ",
+      "whatsapp": "https://api.whatsapp.com/send?phone=+966554611248",
+      "location": "https://goo.gl/maps/m3UrK6PLcCf1HeRq7"
+    },
+    {
+      "id": "3",
+      "name": "فرع الخالدية",
+      "whatsapp": "https://api.whatsapp.com/send?phone=+966540780475",
+      "location": "https://goo.gl/maps/h4BVJJUQw9fNT4ZC7"
+    },
+    {
+      "id": "4",
+      "name": "مدينة بدر",
+      "whatsapp": "https://api.whatsapp.com/send?phone=+966546027058",
+      "location": "https://goo.gl/maps/ssg51BJFtrK5bxjB9"
+    },
+    {
+      "id": "5",
+      "name": "مدينة رابغ",
+      "whatsapp": "https://api.whatsapp.com/send?phone=966500768935",
+      "location": "https://goo.gl/maps/SYQaM89skRzzA4mU7"
+    },
+    {
+      "id": "6",
+      "name": "مدينة المسيجيد",
+      "whatsapp": "https://api.whatsapp.com/send?phone=+966505217084",
+      "location": "https://goo.gl/maps/cN9T6LBcemNUcRaC7"
+    }
+  ]
+}
